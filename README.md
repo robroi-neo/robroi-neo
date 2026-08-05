@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Robroi Neo M. Dingal</h1>
-<h3 align="center">Full Stack Developer from the Philippines 🇵🇭 | Professionally caffeinated, casually debugging life</h3>
+<h1 align="center">Hi, I'm Robroi Neo M. Dingal</h1>
+<h3 align="center">Full Stack Developer based in the Philippines</h3>
 
-- 🔭 Currently building **a React Native project** (and occasionally yelling at my terminal)
-- 🌱 Currently leveling up in **Node.js, React Native, and just enough DevOps to be dangerous**
-- 💬 Ask me about **my life <3** — fair warning, it's mostly `console.log()` and coffee
-- 📫 Reach me at **robroineo2@gmail.com** (replies faster than my code compiles)
-- ⚡ Fun fact: **I think I'm quite humorous — my rubber duck disagrees**
+- 🔭 Currently working on **a React Native project**
+- 💬 Open to discussing **software development and related topics**
+- 📫 Reach me at **robroineo2@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
