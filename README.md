@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Robroi Neo M. Dingal</h1>
-<h3 align="center">A passionate full stack dev from PH!</h3>
+<h3 align="center">Full Stack Developer from the Philippines 🇵🇭 | Professionally caffeinated, casually debugging life</h3>
 
-- 🔭 I’m currently working on **a React Native Project!**
-
-- 🌱 I’m currently learning **Node Js, React Native, and basic Devops**
-
-- 💬 Ask me about **my life <3**
-
-- 📫 How to reach me **robroineo2@gmail.com**
-
-- ⚡ Fun fact **I think i am quite humurous?**
+- 🔭 Currently building **a React Native project** (and occasionally yelling at my terminal)
+- 🌱 Currently leveling up in **Node.js, React Native, and just enough DevOps to be dangerous**
+- 💬 Ask me about **my life <3** — fair warning, it's mostly `console.log()` and coffee
+- 📫 Reach me at **robroineo2@gmail.com** (replies faster than my code compiles)
+- ⚡ Fun fact: **I think I'm quite humorous — my rubber duck disagrees**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -23,4 +19,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
-
